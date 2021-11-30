@@ -3,7 +3,7 @@
 
 **DevSecOps info:** 
 
-This is to give a highlevel overview of DevSecOps and its processes. This also covers some of the best industry standard tools for DevSecOps implementstions.
+This is to give a highlevel overview of DevSecOps and its processes. This also covers some of the industries best tools for DevSecOps implementstions.
  
  ![Alt text](IMG/DevSecOps_banner.jpg?raw=true "DevSecOps_Banner")
 
